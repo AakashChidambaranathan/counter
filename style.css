@@ -7,11 +7,11 @@
 #centerainer{
     text-align: center;
 }
-.buttoon{
+.button{
     padding: 10px 20px;
     font-size: 1.5em;
-    color: wheat;
+    color: white;
     background-color: red;
-    border: radius 10px;
+    border: radius 12px;
     cursor: pointer;
 }
